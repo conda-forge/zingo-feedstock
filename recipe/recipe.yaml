@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.1.0"
 
 package:
   name: zingo
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/z/zingo/zingo-${{ version }}.tar.gz
-  sha256: 2359b024b80f03c23fc3e0250d40f6c07202fb949913e1b09a91edee2503d989
+  sha256: d393570fdc3f45aaa07e152343141f07aaf22566a11fa860b1258e3e4a40d7af
 
 build:
   number: 0
